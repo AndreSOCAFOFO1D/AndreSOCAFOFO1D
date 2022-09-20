@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andre1D
-- pensamento computacional 
-- html
+- :desktop_computer:pensamento computacional 
+- :warning:html
 - :red_circle: meu zap 41999105440
 
 <!---
